@@ -1,0 +1,22 @@
+{
+  "name": "quizapp",
+  "version": "1.0.0",
+  "description": "quiz application using express.js",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Reddzik/QuizApp.git"
+  },
+  "author": "Redzik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Reddzik/QuizApp/issues"
+  },
+  "homepage": "https://github.com/Reddzik/QuizApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
